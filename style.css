@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #1f1f1f;
+  padding: 20px;
+}
+
+.video {
+  margin: 30px auto;
+}
+
+iframe {
+  border-radius: 10px;
+  max-width: 90%;
+}
+
+footer {
+  background-color: #1f1f1f;
+  padding: 15px;
+  font-size: 14px;
+}
